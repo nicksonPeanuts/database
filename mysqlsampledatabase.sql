@@ -122,6 +122,19 @@ CREATE TABLE orderdetails (
 
 /*
     My code for the database
+
+    show databases;
+use classicmodels;
+
+/*
+    select è come una tabella!
+
+    SELECT * from customers;
+
+    SELECT customerName from customers;
+
+    SELECT * from products WHERE MSRP < 75;
+
     creazione tabelle
 */
 
